@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/PlatformerTest.png-091abb4438f4ad43d8318f39cd82772a.stex"
+path="res://.import/PlatformerTest.png-df5f4aacdc25883604c213773dbf428e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Export/Web/PlatformerTest.png"
-dest_files=[ "res://.import/PlatformerTest.png-091abb4438f4ad43d8318f39cd82772a.stex" ]
+source_file="res://Export/web/PlatformerTest.png"
+dest_files=[ "res://.import/PlatformerTest.png-df5f4aacdc25883604c213773dbf428e.stex" ]
 
 [params]
 
